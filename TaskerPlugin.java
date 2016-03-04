@@ -1,6 +1,6 @@
 //package com.yourcompany.yourcondition;
 //package com.yourcompany.yoursetting;
-package com.todoroo.andlib.data;
+package com.todoroo.andlib;
 
 // Constants and functions for Tasker *extensions* to the plugin protocol
 // See Also: http://tasker.dinglisch.net/plugins.html
